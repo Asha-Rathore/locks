@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006719177237",
+    "project_id": "locks-c4fa8",
+    "storage_bucket": "locks-c4fa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006719177237:android:0e4222a9803f535c3b741c",
+        "android_client_info": {
+          "package_name": "com.appsnado.locks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgwzoCgFhihRbZO_9S4LRSvaKi7XLqqB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
